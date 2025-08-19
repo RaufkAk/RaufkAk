@@ -3,7 +3,6 @@ Hi, I’m **Rauf Kutay Akyıldız** 👋
 - 🎓 Software Development student at **Yeditepe University**  
 - 📱 Passionate about **Mobile Development** (Flutter, Kotlin, Android)  
 - 🧠 Curious about **AI & Data Science**  
-- 🌍 Aiming to build a career in **Germany** after graduation  
 
 ---
 
