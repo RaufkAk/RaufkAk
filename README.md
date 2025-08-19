@@ -1,5 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- A movie & TV show tracking app with TMDb API, Kotlin, and MVVM  <br>- Improving my skills in Flutter & Android development  <br><br>👯 I’m looking to collaborate on  <br>- Mobile app development projects (Flutter, Kotlin, Android)  <br>- Open-source projects related to mobile or AI  <br><br>🤝 I’m looking for help with  <br>- Best practices in clean architecture for Android & Flutter  <br><br>🌱 I’m currently learning  <br>- Advanced Kotlin & Android Jetpack libraries  <br>- Firebase services and cloud integration  <br>- Data Science fundamentals (Python, ML basics)  <br><br>💬 Ask me about  <br>- Flutter & Android app development  <br>- Firebase integration and mobile databases  <br>- Productivity tips for students learning to code  <br><br>⚡ Fun fact  <br>- Batman is my favorite superhero 🦇  <br>- I started mobile development with zero Kotlin knowledge and built a full app by learning step by step 🚀  
+💫 About Me  
+
+Hi, I’m **Rauf Kutay Akyıldız** 👋  
+- 🎓 Software Development student at **Yeditepe University**  
+- 📱 Passionate about **Mobile Development** (Flutter, Kotlin, Android)  
+- 🧠 Curious about **AI & Data Science**  
+- 🌍 Aiming to build a career in **Germany** after graduation  
+
+---
+
+🔭 Currently Working On  
+- **SeenIT**: A movie & TV show tracking app (Kotlin, TMDb API, MVVM)  
+- Improving my skills in **Flutter** & **Android**  
+
+👯 Looking to Collaborate On  
+- Mobile app projects (Flutter, Kotlin, Android)  
+- Open-source projects in mobile or AI  
+
+🤝 Looking for Help With  
+- Best practices in clean architecture for Android & Flutter  
+
+🌱 Currently Learning  
+- Advanced Kotlin & Android Jetpack libraries  
+- Firebase services & cloud integration  
+- Data Science fundamentals (Python, ML basics)  
+
+💬 Ask Me About  
+- Flutter & Android app development  
+- Firebase integration & mobile databases  
+- Productivity tips for students learning to code  
+
+⚡ Fun Facts  
+- Batman is my favorite superhero 🦇  
+- Built my first Android app starting with **zero Kotlin knowledge** 🚀  
 
 
 ## 🌐 Socials:
