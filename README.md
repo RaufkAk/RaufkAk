@@ -1,5 +1,4 @@
-#💫 About Me  
-
+# 💫 About Me:
 Hi, I’m **Rauf Kutay Akyıldız** 👋  
 - 🎓 Software Development student at **Yeditepe University**  
 - 📱 Passionate about **Mobile Development** (Flutter, Kotlin, Android)  
@@ -31,7 +30,6 @@ Hi, I’m **Rauf Kutay Akyıldız** 👋
 
 ⚡ Fun Facts  
 - Batman is my favorite superhero 🦇  
-- Built my first Android app starting with **zero Kotlin knowledge** 🚀  
 
 
 ## 🌐 Socials:
