@@ -1,4 +1,4 @@
-💫 About Me  
+#💫 About Me  
 
 Hi, I’m **Rauf Kutay Akyıldız** 👋  
 - 🎓 Software Development student at **Yeditepe University**  
