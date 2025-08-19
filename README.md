@@ -7,8 +7,8 @@ Hi, I’m **Rauf Kutay Akyıldız** 👋
 ---
 
 🔭 Currently Working On  
-- **SeenIT**: A movie & TV show tracking app (Kotlin, TMDb API, MVVM)  
-- Improving my skills in **Flutter** & **Android**  
+- Improving my skills in **Flutter** & **Android**
+- Exploring Data Science techniques and Machine Learning projects using Python  
 
 👯 Looking to Collaborate On  
 - Mobile app projects (Flutter, Kotlin, Android)  
@@ -43,9 +43,6 @@ Hi, I’m **Rauf Kutay Akyıldız** 👋
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaufkAk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaufkAk&icon=0&color=0)](https://visitcount.itsvg.in)
