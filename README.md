@@ -6,31 +6,6 @@ Hi, I’m **Rauf Kutay Akyıldız** 👋
 
 ---
 
-🔭 Currently Working On  
-- Improving my skills in **Flutter** & **Android**
-- Exploring Data Science techniques and Machine Learning projects using Python  
-
-👯 Looking to Collaborate On  
-- Mobile app projects (Flutter, Kotlin, Android)  
-- Open-source projects in mobile or AI  
-
-🤝 Looking for Help With  
-- Best practices in clean architecture for Android & Flutter  
-
-🌱 Currently Learning  
-- Advanced Kotlin & Android Jetpack libraries  
-- Firebase services & cloud integration  
-- Data Science fundamentals (Python, ML basics)  
-
-💬 Ask Me About  
-- Flutter & Android app development  
-- Firebase integration & mobile databases  
-- Productivity tips for students learning to code  
-
-⚡ Fun Facts  
-- Batman is my favorite superhero 🦇  
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rauf-kutay-a-574983238/) 
 
